@@ -1,0 +1,6 @@
+{
+  "name": "超声先天性心脏病临床指南与决策系统",
+  "description": "基于ASE/ESC及国内儿科心脏超声指南的先天性心脏病超声全病种库、儿科心血管Z-Score与血流动力学校准计算器、阶梯式介入与外科临床决策树、连续节段分析法结构化报告及AI智能辅诊系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
